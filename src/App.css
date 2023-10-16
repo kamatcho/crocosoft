@@ -1,0 +1,43 @@
+.form {
+    margin:  30px;
+    padding-top: 20px;
+}
+.formBody {
+    margin: 20px 10px 10px 10px ;
+}
+
+.inputStyle {
+    margin-top: 10px;
+
+
+}
+
+.actionButtons {
+    display: flex;
+    margin-top: 20px ;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+}
+.formContainer {
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+.errorText {
+    color: red;
+    text-align: left;
+}
+.submitButton {
+    margin-top: 20px;
+    justify-items: center;
+    align-items: center;
+
+}
+.addButton {
+    margin: 20px;
+}
+.questionInputs {
+padding: 10px;
+    margin: 10px 0 10px 0;
+}
